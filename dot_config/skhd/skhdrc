@@ -1,3 +1,6 @@
+# open a new terminal -> it's leaving a lot of unusable open windows
+# cmd - return :  open -na iTerm
+
 # change window focus within space
 cmd - k : yabai -m window --focus south
 cmd - i : yabai -m window --focus north
