@@ -102,8 +102,4 @@ export STARSHIP_CONFIG=~/.dotfiles/starship/starship.toml
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-ssh-add --apple-use-keychain ~/.ssh/gitlab_id_rsa
-ssh-add --apple-use-keychain ~/.ssh/pi_ed25519
-
-
 eval "$(starship init zsh)"
