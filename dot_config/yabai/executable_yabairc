@@ -42,6 +42,8 @@ yabai -m config mouse_action2 resize
 # disable yabai control on this window
 yabai -m rule --add app="^System Settings$" manage=off
 yabai -m rule --add app="^Raycast$" manage=off
+yabai -m rule --add app="^Stickies$" manage=off
+
 
 # focus on existing windows after closing
 #yabai -m signal --add event=window_destroyed action="yabai -m query --windows --window &> /dev/null || yabai -m window --focus mouse"

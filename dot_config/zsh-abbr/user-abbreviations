@@ -1,0 +1,7 @@
+abbr "gc"="git commit"
+abbr "gcm"="git commit -m '%'"
+abbr "gd"="git diff"
+abbr "gs"="git status"
+abbr "gss"="git status --short"
+abbr "l"="ls -l"
+abbr "la"="ls -a"
