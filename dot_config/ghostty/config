@@ -1,7 +1,10 @@
 # Appearance
 font-family = IosevkaTerm Nerd Font Mono
-window-theme = dark
-theme = CyberpunkScarletProtocol
+background-opacity = 0.85
+background-blur-radius = 10
+
+# Themes
+theme = Andromeda
 
 # Updates
 auto-update = check
@@ -9,3 +12,4 @@ auto-update-channel = stable
 
 # Quitting options
 quit-after-last-window-closed = true
+
