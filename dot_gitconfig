@@ -1,0 +1,16 @@
+# This is Git's per-user configuration file.
+[user]
+	name = marco
+	email = marcomartinsr@gmail.com
+[init]
+  	defaultBranch = main
+[push]
+	autoSetupRemote = true
+	followTags = true
+[branch]
+	sort = -committerdate
+[color]
+	ui = true
+	interactive = true
+[rebase]
+	autosquash = true
