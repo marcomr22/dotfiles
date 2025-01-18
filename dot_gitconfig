@@ -2,6 +2,7 @@
 [user]
 	name = marco
 	email = marcomartinsr@gmail.com
+	signingkey = /Users/marco/.ssh/gitlab_id_rsa.pub
 [init]
   	defaultBranch = main
 [push]

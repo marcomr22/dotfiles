@@ -1,10 +1,13 @@
 # Appearance
 font-family = Inconsolata LGC Nerd Font Mono
-background-opacity = 0.85
+#font-family = Inconsolata
+background-opacity = 0.90
 background-blur-radius = 10
 
 # Themes
-theme = Andromeda
+#window-theme=system
+#Raycast_Light
+theme = light:Spring,dark:Andromeda
 
 # Updates
 auto-update = check

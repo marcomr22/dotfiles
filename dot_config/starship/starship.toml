@@ -12,7 +12,7 @@ error_symbol = ''
 # ---
 
 [os]
-format = '[$symbol](bold white) '   
+format = '[$symbol](bold fg:5) '   
 disabled = false
 
 [os.symbols]
@@ -25,8 +25,8 @@ Macos = '󰀵'
 
 # Shows the username
 [username]
-style_user = 'white bold'
-style_root = 'black bold'
+style_user = 'bold fg:5'
+style_root = 'bold fg:8'
 format = '[$user]($style) '
 disabled = false
 show_always = true
