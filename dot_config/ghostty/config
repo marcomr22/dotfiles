@@ -1,13 +1,15 @@
 # Appearance
 font-family = Inconsolata LGC Nerd Font Mono
 #font-family = Inconsolata
-background-opacity = 0.90
-background-blur-radius = 10
+#background-opacity = 0.91
+#background-blur-radius = 10
 
 # Themes
 #window-theme=system
 #Raycast_Light
-theme = light:Spring,dark:Andromeda
+#dark:Andromeda
+#light:Spring,
+theme = light:catppuccin-latte,dark:catppuccin-macchiato
 
 # Updates
 auto-update = check
