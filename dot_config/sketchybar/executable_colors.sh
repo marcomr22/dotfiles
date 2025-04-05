@@ -22,5 +22,5 @@ export DARK_WHITE=0xFF9399b2  #9399b2
 export BG_PRI_COLR=0xEE1e1e2e #1e1e2e
 export BG_SEC_COLR=0xFF313244 #313244
 
-export MAIN="$GREEN"
+export MAIN="$LAVENDER"
 export SECD="$DARK_WHITE"
