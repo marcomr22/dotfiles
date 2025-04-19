@@ -10,3 +10,4 @@ else
     sketchybar --set $NAME background.drawing=off icon.color="$SECD"
 fi
 
+

@@ -1,7 +1,7 @@
 #!/bin/sh
 source "$CONFIG_DIR/colors.sh"
 
-SPACE_ICONS=("" "" "" "" "" "" "" "" "" "")
+SPACE_ICONS=("" "" "" "" "" "" "" "" "" "") 
 
 SPACE=(
   icon.padding_left=6

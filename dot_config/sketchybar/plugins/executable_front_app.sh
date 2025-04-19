@@ -6,6 +6,8 @@
 # https://felixkratz.github.io/SketchyBar/config/events#events-and-scripting
 source "$CONFIG_DIR/colors.sh"
 
+id="$(aerospace list-workspaces --focused)"
+
 if [ "$SENDER" = "front_app_switched" ]; then
-  sketchybar --set "$NAME" label="$INFO" label.color="$MAIN"
+  sketchybar --set "$NAME" label="$id $INFO" label.color="$MAIN"
 fi
